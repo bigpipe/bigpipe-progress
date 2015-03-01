@@ -17,6 +17,8 @@
   "keywords": [
     "bigpipe",
     "progress",
+    "pagelet",
+    "loading",
     "bar",
     "plugin"
   ],
