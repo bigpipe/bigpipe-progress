@@ -1,0 +1,35 @@
+{
+  "name": "bigpipe-progress",
+  "version": "1.0.0",
+  "description": "BigPipe plugin which shows a custom progress bar when your pagelets are loading.",
+  "main": "index.js",
+  "scripts": {
+    "100%": "istanbul check-coverage --statements 100 --functions 100 --lines 100 --branches 100",
+    "coverage": "istanbul cover ./node_modules/.bin/_mocha -- test.js",
+    "test": "mocha test.js",
+    "test-travis": "istanbul cover node_modules/.bin/_mocha --report lcovonly -- test.js",
+    "watch": "mocha --watch test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigpipe/bigpipe-progress.git"
+  },
+  "keywords": [
+    "bigpipe",
+    "progress",
+    "bar",
+    "plugin"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigpipe/bigpipe-progress/issues"
+  },
+  "homepage": "https://github.com/bigpipe/bigpipe-progress",
+  "devDependencies": {
+    "assume": "1.1.x",
+    "istanbul": "0.3.x",
+    "mocha": "2.1.x",
+    "pre-commit": "1.0.x"
+  }
+}
