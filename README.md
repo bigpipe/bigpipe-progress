@@ -1,8 +1,7 @@
 # bigpipe-progress
 
-[![From bigpipe.io][from]](http://bigpipe.io)[![Version npm][version]](http://browsenpm.org/package/bigpipe-progress)[![Build Status][build]](https://travis-ci.org/bigpipe/bigpipe-progress)[![Dependencies][david]](https://david-dm.org/bigpipe/bigpipe-progress)[![Coverage Status][cover]](https://coveralls.io/r/bigpipe/bigpipe-progress?branch=master)
+(http://bigpipe.io)[![Version npm][version]](http://browsenpm.org/package/bigpipe-progress)[![Build Status][build]](https://travis-ci.org/bigpipe/bigpipe-progress)[![Dependencies][david]](https://david-dm.org/bigpipe/bigpipe-progress)[![Coverage Status][cover]](https://coveralls.io/r/bigpipe/bigpipe-progress?branch=master)
 
-[from]: https://img.shields.io/badge/from-bigpipe.io-9d8dff.svg?style=flat-square
 [version]: http://img.shields.io/npm/v/bigpipe-progress.svg?style=flat-square
 [build]: http://img.shields.io/travis/bigpipe/bigpipe-progress/master.svg?style=flat-square
 [david]: https://img.shields.io/david/bigpipe/bigpipe-progress.svg?style=flat-square
